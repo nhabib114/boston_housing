@@ -88,7 +88,7 @@ print "Standard deviation of house price: {0:.3f}".format(std_dev)
 # Remember, you can **double click the text box below** to add your answer!
 
 # **Answer: 
-# CRIM: Crime rate per 100,000 people in the neighborhood.
+# CRIM: Crime rate per 100,000 residents in the neighborhood.
 # DIS: Weighted distances from the house to five different employment centers, affecting how close the neighborhood is to the residents' potential places of employment.
 # RAD: Index of accessibility to radial highways from the house's location.**
 
